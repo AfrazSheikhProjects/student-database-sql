@@ -42,17 +42,17 @@ FROM students s
 ---
 
 ## 📈 Key Learnings
--- Database design and schema creation
--- Writing optimized SQL queries
--- Managing relational data efficiently
+- Database design and schema creation
+- Writing optimized SQL queries
+- Managing relational data efficiently
 
 ---
 
 ## 📌 Future Improvements
--- Add stored procedures
--- Build a frontend interface
+- Add stored procedures
+- Build a frontend interface
 
 ---
 
 ## 🤝 Connect with Me
--- LinkedIn: https://www.linkedin.com/in/afraz-sheikh-2aa664386/
+- LinkedIn: https://www.linkedin.com/in/afraz-sheikh-2aa664386/
