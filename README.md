@@ -38,5 +38,21 @@ SELECT * FROM students WHERE marks > 80;
 -- Join student and course tables
 SELECT s.name, c.course_name
 FROM students s
-INNER JOIN courses c
-ON s.course_id = c.course_id;
+
+---
+
+## 📈 Key Learnings
+-- Database design and schema creation
+-- Writing optimized SQL queries
+-- Managing relational data efficiently
+
+---
+
+## 📌 Future Improvements
+-- Add stored procedures
+-- Build a frontend interface
+
+---
+
+## 🤝 Connect with Me
+-- LinkedIn: https://www.linkedin.com/in/afraz-sheikh-2aa664386/
