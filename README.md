@@ -38,7 +38,7 @@ SELECT * FROM students WHERE marks > 80;
 -- Join student and course tables
 SELECT s.name, c.course_name
 FROM students s
-
+```
 ---
 
 ## 📈 Key Learnings
